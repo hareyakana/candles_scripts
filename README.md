@@ -1,2 +1,2 @@
 # candles_scripts
- for personal record only
+ A task record of C++ script experience from CANDLES.
